@@ -1,2 +1,4 @@
-# GSMfangdaobaojing
+﻿# GSMfangdaobaojing
 采用gsm的防盗防火报警器
+
+当触发防盗传感器时，系统会自动发送短信到房主手机，并拨通房主电话，蜂鸣器鸣响。

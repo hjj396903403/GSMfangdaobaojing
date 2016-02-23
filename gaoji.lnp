@@ -1,0 +1,5 @@
+"STARTUP.obj",
+"main.obj",
+"18b20.obj" 
+TO "gaoji" 
+RAMSIZE(256) 
